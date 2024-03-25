@@ -1,0 +1,21 @@
+{
+  "name": "hostelmanagementsystem-g1",
+  "version": "1.0.0",
+  "description": "A group project of Group 1 work done for the module Collaborative Development",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1",
+    "http-status-codes": "^2.3.0",
+    "mongoose": "^8.2.3",
+    "yarn": "^1.22.22"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
